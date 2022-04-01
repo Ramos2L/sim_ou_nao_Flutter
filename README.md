@@ -1,2 +1,3 @@
 # sim_ou_nao_Flutter
-Sim ou Não? tire suas dúvidas
+Sim ou Não? Tire suas dúvidas com este appFlutter...
+Aplicativo simples, seu funcionamento é bem similar a cartas de tarot 'sim ou não', você pensa algo e ele gera uma resposta que pode variar entre 'concordância'ou 'discordância' sobre o assunto imaginado. O propósito em questão é treinar um pouco o gerenciamento de estados BLoC usados na aplicação Flutter (v. 2.10.4)
